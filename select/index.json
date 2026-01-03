@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Breath of life",
+  "base_artist": "Imy",
+  "createdAt": "2026-01-03T15:16:49.429164Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Breath of Life",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/01_Breath_of_Life_Erasure.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Breath Of Life",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/02_Breath_Of_Life_Erasure.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Breath of Life (7\" Mix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/03_Breath_of_Life_(7__Mix)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Breath Of Life (7' Mix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/04_Breath_Of_Life_(7'_Mix)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Breath of Life - Divine Inspiration Mix",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/05_Breath_of_Life_-_Divine_Inspiration_Mix_Erasure.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Breath Of Life (Divine Inspiration Mix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/06_Breath_Of_Life_(Divine_Inspiration_Mix)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Breath of Life - Elixir Mix",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/07_Breath_of_Life_-_Elixir_Mix_Erasure.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Breath Of Life (Elixir Mix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/08_Breath_Of_Life_(Elixir_Mix)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Breath of Life (Single Remix)",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/09_Breath_of_Life_(Single_Remix)_Erasure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Breath Of Life (Single Remix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/10_Breath_Of_Life_(Single_Remix)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Breath of Life - Stripped Mix",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/11_Breath_of_Life_-_Stripped_Mix_Erasure.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Breath of Life - Swiss Mix",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/12_Breath_of_Life_-_Swiss_Mix_Erasure.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Breath Of Life (Swiss Mix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/13_Breath_Of_Life_(Swiss_Mix)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Breath of Life (Umbilical Mix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/14_Breath_of_Life_(Umbilical_Mix)_Erasure.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Breath of life (feat. 藍月なくる)",
+      "artist": "Imy",
+      "has_synced": false,
+      "path": "select/pl_01_Breath_of_life_(feat._藍月なくる)_Imy.txt"
+    }
+  ]
+}
